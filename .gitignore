@@ -1,0 +1,7 @@
+# PYTHON
+.ipynb_checkpoints/
+dist/
+*.egg-info/
+
+# VSCODE
+.vscode/
